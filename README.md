@@ -114,7 +114,7 @@ Ok
 [{"slot" : 1 ,
   "type" : { 
            "name" : "normal",
-           "url" : "https://pokeapi.co/api/v2/type/12/"
+           "url" : "https://pokeapi.co/api/v2/type/1/"
            }
  }]
 ```
@@ -126,7 +126,7 @@ Ok
 | **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
 | **Dictionary**  |  **```type```** | |
 | **String**  |   | **```name```**  |Pokemon type name(s)|
-| **Link**  |   | **```url```**  | Link to pokemon tipe description|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
 
 
 
