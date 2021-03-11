@@ -41,10 +41,11 @@ Legal man mas e dai kkkkk mas vamo conversar
 
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
-| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
-| **Dictionary**  |  **```type```** | |
-| **String**  |   | **```name```**  |Pokemon type name(s)|
-| **Link**  |   | **```url```**  | Link to pokemon type description|
+| **Dictionary**  |  **```ability```** |
+| **String**  |   |**```name```** |Name of the ability|
+| **Link**  |   | **```url```**  |Ability description link|
+| **Boolean**  |  **```is_hidden```** | |Tells if the ability it is a hidden ability|
+| **Integer**  |  **```slot```** | | Show the pokemon ability slot. 1 and 2 for normal abilities and 3 for hidden ability|
 
 
 
