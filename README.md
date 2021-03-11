@@ -111,11 +111,12 @@
 ### Format
 
 ```json
-["slot" : 1 ,
+[{"slot" : 1 ,
  "type" : { 
            "name" : "normal",
            "url" : "https://pokeapi.co/api/v2/type/12/"
-         }]
+         }
+ }]
 ```
 
 ### Description 🛫
