@@ -36,7 +36,6 @@ NÓS NOS BASEAMOS NO ![imagem](https://github.com/Templarian/slack-emoji-pokemon
     }
 ] 
 ```
-```
 
 ### Description 🛫
 
