@@ -3,12 +3,12 @@
 --- 
 
 
-## :cherries: Overview 
+## ![imagem](https://github.com/Templarian/slack-emoji-pokemon/blob/master/emojis/ditto.png?raw=true) :cherries: Overview ![imagem](https://github.com/Templarian/slack-emoji-pokemon/blob/master/emojis/ditto.png?raw=true)
 Legal man mas e dai kkkkk mas vamo conversar
 ---
 
 
-## :cherries: Abilities 
+## ![imagem](https://github.com/Templarian/slack-emoji-pokemon/blob/master/emojis/ditto.png?raw=true):cherries: Abilities ![imagem](https://github.com/Templarian/slack-emoji-pokemon/blob/master/emojis/ditto.png?raw=true)
 
 ---
 ### Format
