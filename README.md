@@ -19,21 +19,21 @@ Legal man mas e dai kkkkk mas vamo conversar
     {
        "ability": 
        {
-        "name": "limber",
-        "url": "https://pokeapi.co/api/v2/ability/7/"
+          "name": "limber",
+          "url": "https://pokeapi.co/api/v2/ability/7/"
        },
        "is_hidden": false,
        "slot": 1
-       },
-       {
+    },
+    {
        "ability": 
        {
-        "name": "imposter",
-        "url": "https://pokeapi.co/api/v2/ability/150/"
+          "name": "imposter",
+          "url": "https://pokeapi.co/api/v2/ability/150/"
        },
        "is_hidden": true,
        "slot": 3
-       }
+    }
 ] 
 ```
 
