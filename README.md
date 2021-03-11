@@ -16,22 +16,22 @@ Legal man mas e dai kkkkk mas vamo conversar
 ```json
 [{"abilities":
   {
-    0:{
+    "0":{
       "ability":
        {
-        "name": "limber"
+        "name": "limber",
         "url": "https://pokeapi.co/api/v2/ability/7/"
-       }
-      "is_hidden": false
+       },
+      "is_hidden": false,
       "slot": 1
-      }
-   1:{
+      },
+   "1":{
       "ability":
        {
-        "name": "imposter"
+        "name": "imposter",
         "url": "https://pokeapi.co/api/v2/ability/150/"
-       }
-      "is_hidden": true
+       },
+      "is_hidden": true,
       "slot": 3
       }
  }
