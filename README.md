@@ -8,7 +8,7 @@ NÓS NOS BASEAMOS NO ![imagem](https://github.com/Templarian/slack-emoji-pokemon
 ---
 
 
-## ![imagem](https://github.com/Templarian/slack-emoji-pokemon/blob/master/emojis/ditto.png?raw=true):cherries: Abilities ![imagem](https://github.com/Templarian/slack-emoji-pokemon/blob/master/emojis/ditto.png?raw=true)
+## :cherries: Abilities
 
 ---
 ### Format
