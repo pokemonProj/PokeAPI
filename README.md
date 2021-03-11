@@ -119,7 +119,7 @@
 
 ### Description
 
-int **```slot:```** Defines 
+(Integer) **```slot:```** Defines 
 
 dict **```type```**: 
 
