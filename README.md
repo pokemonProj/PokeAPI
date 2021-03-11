@@ -510,7 +510,7 @@ Weight of pokemon
 
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
-| **Integer**  |  **```weight```** | 40 | Weight of pokemon|
+| **Integer**  |  **```weight```** |  | Weight of pokemon|
 
 
 
