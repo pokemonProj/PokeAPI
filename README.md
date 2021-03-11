@@ -316,6 +316,9 @@ NÓS NOS BASEAMOS NO ![imagem](https://github.com/Templarian/slack-emoji-pokemon
 ## :cherries: Held Items 
 
 ---
+## :cherries: Held Items 
+
+---
 ### Format
 
 ```json
@@ -654,16 +657,18 @@ NÓS NOS BASEAMOS NO ![imagem](https://github.com/Templarian/slack-emoji-pokemon
             ]
     }
 ]
-    ```
+```
 
 ### Description 🛫
 
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
-| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
-| **Dictionary**  |  **```type```** | |
-| **String**  |   | **```name```**  |Pokemon type name(s)|
-| **Link**  |   | **```url```**  | Link to pokemon type description|
+| **Dictionary**  |  **```item```** |  | |
+| **String**  |   | **```name```** | Item name |
+| **String**  |   | **```url```**  | Link to item description |
+| **List of Dictionaries**  |  **```version_details```** | | |
+| **Integer**  |   | **```rarity```** | Item rarity |
+| **Dictionary**  |   | **```version```** | Game version |
 
 
 
