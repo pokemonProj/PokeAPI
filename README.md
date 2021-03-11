@@ -104,9 +104,32 @@
 
 ---
 
-## :cherries: types 
+## :cherries: Types 
 
 ---
+### Format
+
+```json
+["slot" : ,
+ "type" : { 
+           "name" : "normal",
+           "url" : link
+         }]
+```
+
+### Description
+
+int **```slot:```** Defines 
+
+dict **```type```**: 
+
+* str **```name```** : Pokemon Type (String)
+
+* link **```url```**: Pokemon Type Descpription
+
+
+
+
 
 
 ## :cherries: weight 
