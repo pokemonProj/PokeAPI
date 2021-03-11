@@ -108,10 +108,6 @@
 
 ---
 
-## Types 
-
----
-
 ### Format
 
 ```json
@@ -122,19 +118,14 @@
          }]
 ```
 
-### Description
+### Description 🛫
 
-(Integer) **```slot:```** Defines 
-
-dict **```type```**: 
-
-* str **```name```** : Pokemon Type (String)
-
-* link **```url```**: Pokemon Type Descpription
-* 
-| Type   | Key  | Value Description   |
-|:---:|:---:|:---:|
-| **Integer**  |  **```slot```** |   | 
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon tipe description|
 
 
 
