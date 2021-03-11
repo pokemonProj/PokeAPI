@@ -107,13 +107,18 @@
 ## :cherries: Types 
 
 ---
+
+## Types 
+
+---
+
 ### Format
 
 ```json
-["slot" : ,
+["slot" : 1 ,
  "type" : { 
            "name" : "normal",
-           "url" : link
+           "url" : "https://pokeapi.co/api/v2/type/12/"
          }]
 ```
 
@@ -126,6 +131,10 @@ dict **```type```**:
 * str **```name```** : Pokemon Type (String)
 
 * link **```url```**: Pokemon Type Descpription
+* 
+| Type   | Key  | Value Description   |
+|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** |   | 
 
 
 
