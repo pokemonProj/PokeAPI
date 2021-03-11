@@ -52,7 +52,7 @@ NÓS NOS BASEAMOS NO ![imagem](https://github.com/Templarian/slack-emoji-pokemon
 
 
 
-## :cherries: base_experience 
+## ![imagem](https://images.gameinfo.io/pokemon/256/132-00.png)base_experience 
 
 ---
 ### Format
