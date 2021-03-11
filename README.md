@@ -497,9 +497,9 @@ Legal man mas e dai kkkkk mas vamo conversar
 
 
 
-## :cherries: weight 
+## :cherries: Weight 
 
 ---
 
-PESO PESADO DURO NA QUED
+Weight of pokemon
 
