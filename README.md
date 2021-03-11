@@ -285,7 +285,7 @@ NÓS NOS BASEAMOS NO ![imagem](https://github.com/Templarian/slack-emoji-pokemon
 
 |      Type      |      Key       |     Value      |        Value Description         |
 | :------------: | :------------: | :------------: | :------------------------------: |
-|  **Integer**   | **```game_index```** |          |    Number of pokemon on Pokedex     |
+|  **Integer**   | **```game_index```** |          |    Number of the pokemon on Pokedex     |
 | **Dictionary** | **```version```** |                |
 |   **String**   |                | **```name```** |       Game name       |
 |    **Link**    |                | **```url```**  | Link to game description |
