@@ -52,7 +52,7 @@ NÓS NOS BASEAMOS NO ![imagem](https://github.com/Templarian/slack-emoji-pokemon
 
 
 
-## ![imagem](https://images.gameinfo.io/pokemon/256/132-00.png)base_experience 
+## Base Experience 
 
 ---
 ### Format
@@ -69,7 +69,7 @@ NÓS NOS BASEAMOS NO ![imagem](https://github.com/Templarian/slack-emoji-pokemon
 
 
 
-## :cherries: forms 
+## :cherries: Forms 
 
 ---
 
@@ -82,7 +82,7 @@ NÓS NOS BASEAMOS NO ![imagem](https://github.com/Templarian/slack-emoji-pokemon
         "name": "ditto",
         "url": "https://pokeapi.co/api/v2/pokemon-form/132/"
     }
-],
+]
 ```
 
 ### Description 🛫
