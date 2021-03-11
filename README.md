@@ -40,6 +40,77 @@
 
 
 
-## :cherries: height 
+## :cherries: held_items 
 
 ---
+
+
+## :cherries: id 
+
+---
+
+
+
+
+## :cherries: is_default 
+
+---
+
+
+
+
+## :cherries: location_area_encounters 
+
+---
+
+
+
+
+## :cherries: moves 
+
+---
+
+
+
+
+## :cherries: name 
+
+---
+
+
+
+## :cherries: order 
+
+---
+
+
+
+## :cherries: order 
+
+---
+
+
+## :cherries: species 
+
+---
+
+
+## :cherries: sprites 
+
+---
+
+
+## :cherries: stats 
+
+---
+
+## :cherries: types 
+
+---
+
+
+## :cherries: weight 
+
+---
+
+
