@@ -11,11 +11,57 @@ Legal man mas e dai kkkkk mas vamo conversar
 ## :cherries: Abilities 
 
 ---
-Ok
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
+
+
 
 ## :cherries: base_experience 
 
 ---
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
+
 
 
 
@@ -24,11 +70,57 @@ Ok
 
 ---
 
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
+
 
 
 ## :cherries: game_indices 
 
 ---
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
+
 
 
 
@@ -36,6 +128,29 @@ Ok
 ## :cherries: height 
 
 ---
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
+
 
 
 
@@ -43,11 +158,57 @@ Ok
 ## :cherries: held_items 
 
 ---
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
+
 
 
 ## :cherries: id 
 
 ---
+
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
 
 
 
@@ -55,6 +216,29 @@ Ok
 ## :cherries: is_default 
 
 ---
+
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
 
 
 
@@ -69,6 +253,29 @@ Ok
 ## :cherries: moves 
 
 ---
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
+
 
 
 
@@ -76,33 +283,171 @@ Ok
 ## :cherries: name 
 
 ---
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
+
 
 
 
 ## :cherries: order 
 
 ---
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
+
 
 
 
 ## :cherries: order 
 
 ---
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
+
 
 
 ## :cherries: species 
 
 ---
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
+
 
 
 ## :cherries: sprites 
 
 ---
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
+
 
 
 ## :cherries: stats 
 
 ---
+### Format
+
+```json
+[{"slot" : 1 ,
+  "type" : { 
+           "name" : "normal",
+           "url" : "https://pokeapi.co/api/v2/type/1/"
+           }
+ }]
+```
+
+### Description 🛫
+
+| Type   | Key  | Value | Value Description| 
+|:---:|:---:|:---:|:---:|
+| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
+| **Dictionary**  |  **```type```** | |
+| **String**  |   | **```name```**  |Pokemon type name(s)|
+| **Link**  |   | **```url```**  | Link to pokemon type description|
+
+
+
+
 
 ## :cherries: Types 
 
