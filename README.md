@@ -1,4 +1,4 @@
-# :cherry: PokeAPI :cherry:
+# :cherries: PokeAPI :cherries:
 
 
 Description and uses of API
