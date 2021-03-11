@@ -493,32 +493,25 @@ Legal man mas e dai kkkkk mas vamo conversar
 
 
 
-## :cherries: weight 
+## :cherries: Weight 
 
 ---
 
-PESO PESADO DURO NA QUED
+Weight of pokemon
 
 
 ### Format
 
 ```json
-[{"slot" : 1 ,
-  "type" : { 
-           "name" : "normal",
-           "url" : "https://pokeapi.co/api/v2/type/1/"
-           }
- }]
+"weight" : 40
 ```
 
 ### Description 🛫
 
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
-| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
-| **Dictionary**  |  **```type```** | |
-| **String**  |   | **```name```**  |Pokemon type name(s)|
-| **Link**  |   | **```url```**  | Link to pokemon type description|
+| **Integer**  |  **```weight```** | 40 | Weight of pokemon|
+
 
 
 
