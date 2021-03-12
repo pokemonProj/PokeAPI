@@ -970,9 +970,7 @@
 
 ---
 
-Weight of pokemon
-
-### Description 🛫
+### Description: Weight of pokemon
 
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
