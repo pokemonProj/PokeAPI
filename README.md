@@ -970,7 +970,7 @@
 
 ---
 
-### Description: Weight of pokemon
+### :closed_book: Description: Weight of pokemon
 
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
