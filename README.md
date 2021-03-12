@@ -941,18 +941,8 @@
 
 ---
 
-### Format
 
-```json
-[{"slot" : 1 ,
-  "type" : { 
-           "name" : "normal",
-           "url" : "https://pokeapi.co/api/v2/type/1/"
-           }
- }]
-```
-
-### Description 🛫
+### :closed_book: Description 🛫
 
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
@@ -960,9 +950,6 @@
 | **Dictionary**  |  **```type```** | |
 | **String**  |   | **```name```**  |Pokemon type name(s)|
 | **Link**  |   | **```url```**  | Link to pokemon type description|
-
-
-
 
 
 
