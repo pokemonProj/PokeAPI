@@ -920,20 +920,15 @@
 
 ---
 
-### Description 🛫
+### :page_with_curl: Description: The base stats of Pokemon
 
-| Type   | Key  | Value | Value Description| 
-|:---:|:---:|:---:|:---:|
+| Type   | Key  | Value Description| 
+|:---:|:---:|:---:|
 | **Integer**  |  **```base_stat```** | | Default base stats |
 | **Integer**  |  **```effort```** | | EV - Increases the base stats of Pokemon |
 | **Dictionary**  |   **```stat```** | |
 | **String**  |   | **```name```**  | Type of the base stats |
 | **Link**  |   | **```url```**  | Link to description of stats|
-
-
-
-
-
 
 
 ## :cherries: Types 
