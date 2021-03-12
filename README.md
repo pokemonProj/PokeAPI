@@ -822,7 +822,7 @@
 
 ---
 
-### :page_with_curl: Description: Pokemon images
+### :page_with_curl: Description: Complete description about the pokemon
 
 | Type   | Key  | Value Description| 
 |:---:|:---:|:---:|
@@ -837,6 +837,10 @@
 
 ### :page_with_curl: Description: Pokemon images
 
+| Type   | Key  | Value Description| 
+|:---:|:---:|:---:|
+| **Link**  |  **```<image_name>```** | Link to pokemon image |
+
 
 
 ## :cherries: Stats 
@@ -847,9 +851,9 @@
 
 | Type   | Key  | Value Description| 
 |:---:|:---:|:---:|
-| **Integer**  |  **```base_stat```** | | Default base stats |
-| **Integer**  |  **```effort```** | | EV - Increases the base stats of Pokemon |
-| **Dictionary**  |   **```stat```** | |
+| **Integer**  |  **```base_stat```** | Default base stats |
+| **Integer**  |  **```effort```** | EV - Increases the base stats of Pokemon |
+| **Dictionary**  |   **```stat```** |
 | **String**  |   | **```name```**  | Type of the base stats |
 | **Link**  |   | **```url```**  | Link to description of stats|
 
