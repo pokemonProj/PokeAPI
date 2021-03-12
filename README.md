@@ -942,7 +942,7 @@
 ---
 
 
-### :closed_book: Description 🛫
+### :closed_book: Description: The pokemon's type
 
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
@@ -957,7 +957,7 @@
 
 ---
 
-### :closed_book: Description: Weight of pokemon
+### :closed_book: Description: The pokemon's weight
 
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
