@@ -6,7 +6,7 @@
 
 ---
 
-![Ditto Image](https://toppng.com/uploads/preview/original-artwork-as-per-request-here-is-a-ditto-i-cartoo-11563134477pegsynu0p1.png =100x20)
+![Ditto Image](https://toppng.com/uploads/preview/original-artwork-as-per-request-here-is-a-ditto-i-cartoo-11563134477pegsynu0p1.png){ width=50% }
 
 
 ## :cherries: Abilities
