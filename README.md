@@ -728,93 +728,16 @@
 
 
 
-
-
-
-
-## :cherries: name 
+## :cherries: Name 
 
 ---
-### Format
-
-```json
-[{"slot" : 1 ,
-  "type" : { 
-           "name" : "normal",
-           "url" : "https://pokeapi.co/api/v2/type/1/"
-           }
- }]
-```
-
-### Description 🛫
-
-| Type   | Key  | Value | Value Description| 
-|:---:|:---:|:---:|:---:|
-| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
-| **Dictionary**  |  **```type```** | |
-| **String**  |   | **```name```**  |Pokemon type name(s)|
-| **Link**  |   | **```url```**  | Link to pokemon type description|
 
 
+### :page_with_curl: Description: Pokemon name
 
-
-
-
-
-## :cherries: order 
-
----
-### Format
-
-```json
-[{"slot" : 1 ,
-  "type" : { 
-           "name" : "normal",
-           "url" : "https://pokeapi.co/api/v2/type/1/"
-           }
- }]
-```
-
-### Description 🛫
-
-| Type   | Key  | Value | Value Description| 
-|:---:|:---:|:---:|:---:|
-| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
-| **Dictionary**  |  **```type```** | |
-| **String**  |   | **```name```**  |Pokemon type name(s)|
-| **Link**  |   | **```url```**  | Link to pokemon type description|
-
-
-
-
-
-
-
-## :cherries: order 
-
----
-### Format
-
-```json
-[{"slot" : 1 ,
-  "type" : { 
-           "name" : "normal",
-           "url" : "https://pokeapi.co/api/v2/type/1/"
-           }
- }]
-```
-
-### Description 🛫
-
-| Type   | Key  | Value | Value Description| 
-|:---:|:---:|:---:|:---:|
-| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
-| **Dictionary**  |  **```type```** | |
-| **String**  |   | **```name```**  |Pokemon type name(s)|
-| **Link**  |   | **```url```**  | Link to pokemon type description|
-
-
-
+| Type   | Key  | Value Description| 
+|:---:|:---:|:---:|
+| **String**  | **```name```**  |Pokemon name|
 
 
 
@@ -826,7 +749,7 @@
 
 | Type   | Key  | Value Description| 
 |:---:|:---:|:---:|
-| **String**  | **```Name```**  |Pokemon name|
+| **String**  | **```name```**  |Pokemon name|
 | **Link**  | **```url```**  | Link to complete description about pokemon|
 
 
