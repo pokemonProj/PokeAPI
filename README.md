@@ -11,7 +11,7 @@
 
 ---
 
-### :page_with_curl: Description: The pokemon's weight
+### :page_with_curl: Description: The pokemon's abilities
 
 | Type         | Key                      | Value Description| 
 |:---:|:---:|:---:|
@@ -25,20 +25,14 @@
 
 
 
-## Base Experience 
+## 🍒 Base Experience 
 
 ---
-### Format
+### :page_with_curl: Description: The pokemon's base experience
 
-```json
-"base_experience" : 101
-```
-
-### Description 🛫
-
-| Type   | Key  | Value | Value Description| 
-|:---:|:---:|:---:|:---:|
-| **Integer**  |  **```base_experience```** |  | Base experience of the pokemon|
+| Type         | Key                        |Value Description| 
+|:---:         |:---:                       |:---:|
+| **Integer**  |  **```base_experience```** | Base experience of the pokemon|
 
 
 
