@@ -943,7 +943,7 @@
 
 ### :page_with_curl: Description: The pokemon's type
 
-| Type   | Key  | Value | Value Description| 
+| Type   | Key  | Value Description| 
 |:---:|:---:|:---:|
 | **Integer**  |  **```slot```** | Number(s) of pokemon type|
 | **String**  | **```type["name"]```**  |Pokemon type name(s)|
