@@ -3,7 +3,7 @@
 
 
 ## :cherries: Overview
-NÓS NOS BASEAMOS NO ![imagem](https://github.com/Templarian/slack-emoji-pokemon/blob/master/emojis/ditto.png?raw=true) DITTOCUJO
+
 ---
 
 
