@@ -6,7 +6,7 @@
 
 ---
 
-![Ditto Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Foriginal-artwork-as-per-request-here-is-a-ditto-i-cartoo-PNG-free-PNG-Images_208560&psig=AOvVaw019ej1DtmW0UxgEVH4sF0z&ust=1615661331088000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCKip8dC1q-8CFQAAAAAdAAAAABAD)
+![Ditto Image](https://toppng.com/uploads/preview/original-artwork-as-per-request-here-is-a-ditto-i-cartoo-11563134477pegsynu0p1.png)
 
 
 ## :cherries: Abilities
