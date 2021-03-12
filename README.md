@@ -13,12 +13,12 @@
 
 ### :page_with_curl: Description: The pokemon's weight
 
-| Type   | Key  | Value | Value Description| 
-|:---:|:---:|:---:|:---:|
-| **String**  |   |**```ability["name"]```** |Name of the ability|
-| **Link**  |   | **```ability["url"]```**  |Ability description link|
-| **Boolean**  |  **```is_hidden```** | |Tells if the ability it is a hidden ability|
-| **Integer**  |  **```slot```** | | Show the pokemon ability slot. 1 and 2 for normal abilities and 3 for hidden ability|
+| Type         | Key                      | Value Description| 
+|:---:|:---:|:---:|
+| **String**   |**```ability["name"]```** |Name of the ability|
+| **Link**     | **```ability["url"]```** |Ability description link|
+| **Boolean**  |  **```is_hidden```**     |Tells if the ability it is a hidden ability|
+| **Integer**  |  **```slot```**          | Show the pokemon ability slot. 1 and 2 for normal abilities and 3 for hidden ability|
 
 
 
