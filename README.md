@@ -836,57 +836,24 @@
 
 
 
-## :cherries: species 
+## :cherries: Species 
 
 ---
-### Format
 
-```json
-[{"slot" : 1 ,
-  "type" : { 
-           "name" : "normal",
-           "url" : "https://pokeapi.co/api/v2/type/1/"
-           }
- }]
-```
+### :page_with_curl: Description: Pokemon images
 
-### Description 🛫
-
-| Type   | Key  | Value | Value Description| 
-|:---:|:---:|:---:|:---:|
-| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
-| **Dictionary**  |  **```type```** | |
-| **String**  |   | **```name```**  |Pokemon type name(s)|
-| **Link**  |   | **```url```**  | Link to pokemon type description|
+| Type   | Key  | Value Description| 
+|:---:|:---:|:---:|
+| **String**  | **```Name```**  |Pokemon name|
+| **Link**  | **```url```**  | Link to complete description about pokemon|
 
 
 
-
-
-
-## :cherries: sprites 
+## :cherries: Spirites 
 
 ---
-### Format
 
-```json
-[{"slot" : 1 ,
-  "type" : { 
-           "name" : "normal",
-           "url" : "https://pokeapi.co/api/v2/type/1/"
-           }
- }]
-```
-
-### Description 🛫
-
-| Type   | Key  | Value | Value Description| 
-|:---:|:---:|:---:|:---:|
-| **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
-| **String**  |   | **```type["name"]```**  |Pokemon type name(s)|
-| **Link**  |   | **```type["url"]```**  | Link to pokemon type description|
-
-
+### :page_with_curl: Description: Pokemon images
 
 
 
@@ -903,6 +870,7 @@
 | **Dictionary**  |   **```stat```** | |
 | **String**  |   | **```name```**  | Type of the base stats |
 | **Link**  |   | **```url```**  | Link to description of stats|
+
 
 
 ## :cherries: Types 
