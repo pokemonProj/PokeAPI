@@ -14,7 +14,7 @@
 ### :page_with_curl: Description: The pokemon's abilities
 
 | Type         | Key                      | Value Description| 
-|:---:|:---:|:---:|
+|:---:         |:---:                     |:---:|
 | **String**   |**```ability["name"]```** |Name of the ability|
 | **Link**     | **```ability["url"]```** |Ability description link|
 | **Boolean**  |  **```is_hidden```**     |Tells if the ability it is a hidden ability|
@@ -40,24 +40,12 @@
 
 ---
 
-### Format
+### :page_with_curl: Description: The pokemon's forms
 
-```json
-"forms": 
-[
-    {
-        "name": "ditto",
-        "url": "https://pokeapi.co/api/v2/pokemon-form/132/"
-    }
-]
-```
-
-### Description 🛫
-
-| Type   | Key  | Value | Value Description| 
-|:---:|:---:|:---:|:---:|
-| **String**  |  **```name```** |   | Pokemon name|
-| **Link**  |  **```url```** |  |Description link for the pokemon format|
+| Type        | Key             | Value Description| 
+|:---:        |:---:            |:---:|
+| **String**  |  **```name```** | Pokemon name|
+| **Link**    |  **```url```**  | Description link for the pokemon format|
 
 
 
