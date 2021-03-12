@@ -972,19 +972,8 @@
 
 Weight of pokemon
 
-
-### Format
-
-```json
-"weight" : 40
-```
-
 ### Description 🛫
 
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
 | **Integer**  |  **```weight```** |  | Weight of pokemon|
-
-
-
-
