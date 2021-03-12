@@ -924,11 +924,10 @@
 
 | Type   | Key  | Value Description| 
 |:---:|:---:|:---:|
-| **Integer**  |  **```base_stat```** | | Default base stats |
-| **Integer**  |  **```effort```** | | EV - Increases the base stats of Pokemon |
-| **Dictionary**  |   **```stat```** | |
-| **String**  |   | **```name```**  | Type of the base stats |
-| **Link**  |   | **```url```**  | Link to description of stats|
+| **Integer**  |  **```base_stat```** | Default base stats |
+| **Integer**  |  **```effort```** | EV - Increases the base stats of Pokemon |
+| **String**  | **```stat["name"]```**  | Type of the base stats |
+| **Link**  | **```stat["url"]```**  | Link to description of stats|
 
 
 ## :cherries: Types 
