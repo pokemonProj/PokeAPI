@@ -10,39 +10,13 @@
 ## :cherries: Abilities
 
 ---
-### Format
 
-```json
-"abilities": 
-[
-    {
-       "ability": 
-          {
-            "name": "limber",
-            "url": "https://pokeapi.co/api/v2/ability/7/"
-          },
-       "is_hidden": false,
-       "slot": 1
-    },
-    {
-       "ability": 
-          {
-             "name": "imposter",
-             "url": "https://pokeapi.co/api/v2/ability/150/"
-          },
-       "is_hidden": true,
-       "slot": 3
-    }
-] 
-```
-
-### Description 🛫
+### :page_with_curl: Description: The pokemon's weight
 
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
-| **Dictionary**  |  **```ability```** |
-| **String**  |   |**```name```** |Name of the ability|
-| **Link**  |   | **```url```**  |Ability description link|
+| **String**  |   |**```ability["name"]```** |Name of the ability|
+| **Link**  |   | **```ability["url"]```**  |Ability description link|
 | **Boolean**  |  **```is_hidden```** | |Tells if the ability it is a hidden ability|
 | **Integer**  |  **```slot```** | | Show the pokemon ability slot. 1 and 2 for normal abilities and 3 for hidden ability|
 
@@ -924,10 +898,11 @@
 
 | Type   | Key  | Value Description| 
 |:---:|:---:|:---:|
-| **Integer**  |  **```base_stat```** | Default base stats |
-| **Integer**  |  **```effort```** | EV - Increases the base stats of Pokemon |
-| **String**  | **```stat["name"]```**  | Type of the base stats |
-| **Link**  | **```stat["url"]```**  | Link to description of stats|
+| **Integer**  |  **```base_stat```** | | Default base stats |
+| **Integer**  |  **```effort```** | | EV - Increases the base stats of Pokemon |
+| **Dictionary**  |   **```stat```** | |
+| **String**  |   | **```name```**  | Type of the base stats |
+| **Link**  |   | **```url```**  | Link to description of stats|
 
 
 ## :cherries: Types 
