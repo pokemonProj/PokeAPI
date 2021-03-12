@@ -909,9 +909,8 @@
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
 | **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
-| **Dictionary**  |  **```type```** | |
-| **String**  |   | **```name```**  |Pokemon type name(s)|
-| **Link**  |   | **```url```**  | Link to pokemon type description|
+| **String**  |   | **```type["name"]```**  |Pokemon type name(s)|
+| **Link**  |   | **```type["url"]```**  | Link to pokemon type description|
 
 
 
@@ -942,14 +941,13 @@
 ---
 
 
-### :closed_book: Description: The pokemon's type
+### :page_with_curl: Description: The pokemon's type
 
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
 | **Integer**  |  **```slot```** | 1 or 2  | Number(s) of pokemon type|
-| **Dictionary**  |  **```type```** | |
-| **String**  |   | **```name```**  |Pokemon type name(s)|
-| **Link**  |   | **```url```**  | Link to pokemon type description|
+| **String**  |   | **```type["name"]```**  |Pokemon type name(s)|
+| **Link**  |   | **```type["url"]```**  | Link to pokemon type description|
 
 
 
@@ -957,7 +955,7 @@
 
 ---
 
-### :closed_book: Description: The pokemon's weight
+### :page_with_curl: Description: The pokemon's weight
 
 | Type   | Key  | Value | Value Description| 
 |:---:|:---:|:---:|:---:|
